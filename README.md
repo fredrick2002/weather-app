@@ -1,6 +1,6 @@
 
 ## Application 2 : Real-Time Data Processing System for Weather Monitoring with Rollups and Aggregates(Client)
-1. Before Starting download the .env file for client and paste it in the project file (Cannot upload .env file due to Security Reasons)
+1. Before Starting download the .env file **(Link Provided in PDF)** for client and paste it in the project file (Cannot upload .env file due to Security Reasons)
    
 2. After that open up the terminal from that directory
 
