@@ -7,8 +7,8 @@
 ### Setup Instructions
 
 1. **Download the Environment Configuration**
-   - Before starting, download the **`.env`** file from the link provided in the PDF. Due to security reasons, the `.env` file cannot be uploaded here.
-   - Paste the downloaded **`.env`** file into the project directory.
+   - Before starting, download the compressed ZIP file containing the **`.env`** file from the link provided in the PDF. Due to security reasons, the `.env` file cannot be uploaded here.
+   - Extract the contents of the ZIP file, and paste the **`.env`** file into the project directory.
 
 2. **Clone the Repository**
    Open your terminal and navigate to the directory where you want to clone the repository. Run the following command:
